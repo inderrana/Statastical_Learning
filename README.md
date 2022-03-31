@@ -1,1 +1,1 @@
-# Statastical_Learning
+A Project for An Introduction to Logistic Regression, Random Forest, AdaBoost, Decision Tree & SGD Regressor based on https://www.statlearning.com/ and Statistical & Machine Learning Approaches Course by Minh Phan at IESEG School of Management.
